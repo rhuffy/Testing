@@ -5,3 +5,6 @@ def main():
 
 def feature2():
     return 1
+
+def feature3():
+    return 35
